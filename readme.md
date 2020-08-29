@@ -1,25 +1,14 @@
-![](https://res.cloudinary.com/wesbos/image/upload/v1515524452/GRID-social-share_wlfzk3.png)
+# Learn CSS Grids 
+ 
 
 # CSS Grid Video Course
 
-Hey! These are the starter files and finished solutions. Grab the full course over at [CSSGrid.io](https://CSSGrid.io).
+Hey! These are the finished solutions. Grab the full course over at [CSSGrid.io](https://CSSGrid.io).
 
-## Course FAQ
-
-### Q: I'm getting Browsersync Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
-
-This is because some versions of Firefox are "FirefoxDeveloperEdition" and some new downloads are "Firefox Developer Edition". If you had downloaded the browser before the course, just remove the spaces from the package.json command so it says "FirefoxDeveloperEdition"
-
-### Q: I can't see the lines / numbers of Firefox' CSS Grid Inspection Tools
-
-Make sure to turn off both "Use recommended performance settings" & "Use hardware acceleration when available“ within Preferences > Performance
 
 ## Community CSS Grid Content
 
 Feel free to submit a PR adding a link to your own recaps, guides or reviews!
-
-* [Course Review](https://www.bencodezen.io/blog/review-css-grid-with-wes-bos/) by [@bencodezen](https://www.twitter.com/bencodezen)
-* [Recap and lessons learned](https://marcokuehbauch.com/blog/2018/learning-css-grid/) by [@mkuehb](https://twitter.com/Mkuehb)
 
 ## A note on Pull Requests
 
